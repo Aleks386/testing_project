@@ -25,9 +25,9 @@ public class WebDriverConfigClass {
     }
 
 
-    /*@After
+    @After
     public void  close() {
         driver.quit();
     }
-    */
+
 }
